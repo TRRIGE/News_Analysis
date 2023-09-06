@@ -1,1 +1,1 @@
-# Sentimental_Analysis
+An proper cluster of code snippets for sentimental analysis.

@@ -1,1 +1,1 @@
-An proper cluster of code snippets for sentimental analysis.
+This project involves conducting sentiment analysis on three diverse news datasets to determine the public's sentiment and assess the accuracy of news reports, aiming to identify truth values and public responses.
